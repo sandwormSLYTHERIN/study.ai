@@ -349,9 +349,9 @@ mongodb://host:27017/studyai?directConnection=true
 ## 📞 Contact
 
 **Aswin EP**  
-📧 Email: epaswin16@gmail.com  
-💼 LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)  
-🐙 GitHub: [@yourhandle](https://github.com/yourhandle)
+📧 Email: dtejeshwar9@gmail.com  
+💼 LinkedIn: [Tejeshwar D](https://www.linkedin.com/in/tejeshwar-d-05b166279)
+🐙 GitHub: https://github.com/sandwormSLYTHERIN
 
 ---
 
